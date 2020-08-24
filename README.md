@@ -1,2 +1,3 @@
 # Project
-Un traducteur entre langage de programmation.
+Un traducteur entre langage de programmation. Ecrit en Python.
+
